@@ -4,8 +4,10 @@
 [👉 Перейти к боту @alcoteka_test_task_bot](https://t.me/alcoteka_test_task_bot)
 
 **🎥 Превью:**  
+<p align="center">
+  <img src="/demo_tg.gif" width="350">
+</p>
 
-![GIF Preview](/demo_tg.gif)
 ---
 
 ## ⚡ Почему я выбрал API, а не парсинг HTML
